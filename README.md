@@ -4,3 +4,8 @@ Deeply understanging how variables works.
 
 
 It`s first challenge of course.
+
+
+1) To view branches - git branch -r
+2) To switch branches - git checkout 'name of branch'
+3)To clone the branch - git clone 
