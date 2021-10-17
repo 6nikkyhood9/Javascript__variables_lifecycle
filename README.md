@@ -5,6 +5,9 @@ It is a last challenge of the Bogdan`s Stashchuk course.
 
 
 Social links of author:
+
 Linkedin - https://www.linkedin.com/in/bogdanstashchuk/
+
 Youtube - https://www.youtube.com/c/CodingTutorials
+
 Udemy - https://www.udemy.com/course/javascript-variables-lifecycles/
