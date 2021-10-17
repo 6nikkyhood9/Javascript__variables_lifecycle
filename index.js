@@ -1,24 +1,13 @@
-a = 2;
-const b = 5;
+let b = 5;
 
-const sum = function(a, b) {
-  return a + b;
-};
+a = b;
 
-if (b > a) {
-  let multResult = mult(a, b);
-  finalResult = multResult;
-} else {
-  let sumResult = sum(a, b);
-  finalResult = sumResult;
+{
+  let c = a;
 }
 
-var a;
+var a = 1;
 
-function mult(a, b) {
-  result = a * b;
-  return result;
-  var result;
-}
+var c;
 
-console.log(finalResult);
+console.log(a, b, c);
